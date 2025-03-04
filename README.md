@@ -6,3 +6,4 @@
 ##  Requirements and constraints
 ### No low latency requirements.
 ### Interpretability is important.
+### Log-loss is the best metric.
