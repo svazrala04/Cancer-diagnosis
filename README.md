@@ -5,5 +5,5 @@
 
 ##  Requirements and constraints
 
-### Interpretability is important.
-### Log-loss is the best metric.
+
+### Performance Metric- Log loss
